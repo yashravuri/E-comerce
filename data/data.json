@@ -1,0 +1,30 @@
+{
+    "mobiles":[
+        {
+            "name":"Note5 pro",
+            "image":"../img/note5 pro.jpg",
+            "Oprice":13000,
+            "price":15000
+        },{
+            "name":"Realme Norzo",
+            "image":"../img/realme narzo.jpg",
+            "Oprice":9500,
+            "price":10000
+        },{
+            "name":"vivo v9",
+            "image":"../img/vivo v9.jpg",
+            "Oprice":18000,
+            "price":22000
+        },{
+            "name":"Apple SE",
+            "image":"../img/apple se.png",
+            "Oprice":30000,
+            "price":31000
+        },{
+            "name":"Jio",
+            "image":"../img/jio.png",
+            "Oprice":1490,
+            "price":1500
+        }
+    ]
+}
